@@ -1,0 +1,38 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Gulf of Martaban",
+      "emoji": "🇲🇲",
+      "date": "2024-03-03T09:17:21.478Z",
+      "notes": "test",
+      "position": {
+        "lat": "15.474857402687254",
+        "lng": "97.49267578125001"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Den Chai",
+      "emoji": "🇹🇭",
+      "date": "2024-03-03T09:26:24.143Z",
+      "notes": "fg",
+      "position": {
+        "lat": "17.895114303749143",
+        "lng": "99.88769531250001"
+      },
+      "id": 73930387
+    }
+  ]
+}
